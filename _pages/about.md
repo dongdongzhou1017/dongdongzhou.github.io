@@ -21,16 +21,17 @@ Indeed, my works focus on hyperspectral image processing, the field of insuffici
 
 Publications
 ====== 
-1. Zhang Lei, $\textbf{Zhang Jinyang}$, Wei Wei, et al. Learning Discriminative Compact Representation for Hyperspectral Imagery Classification. IEEE Transactions on Geoscience and Remote Sensing(TGRS), 2019, 57(10): 8276-8289. 
-2. $\textbf{Zhang Jinyang}$, Wei Wei, Zhang Lei, et al. Improving Hyperspectral Image Classification with Unsupervised Knowledge Learning IEEE International Geoscience and Remote Sensing Symposium(IGARSS). IEEE, 2019: 2722-2725.
-3. Wei Wei, $\textbf{Zhang Jinyang}$, Zhang Lei, et al. Deep cube-pair network for hyperspectral imagery classification. Remote Sensing, 2018, 10(5): 783.
-4. Yu Li, Wei Wei, $\textbf{Zhang Jinyang}$, Lei Zhang, et al. Data-specific Activation Function Learning for Hyperspectral Image Classification. International Conference on Orange Technology (ICOT), 2019
-5. Chen Ding,Ying Li,Lei Zhang,$\textbf{Jinyang Zhang}$,Lu Yang, et al. Fast-convergent fully connected deep learning model using constrained nodes input. Neural Processing Letters, 2019, 49(3): 995-1005.
-
+1. Learning Discriminative Compact Representation for Hyperspectral Imagery Classification. Zhang Lei, $\textbf{Zhang Jinyang}$, Wei Wei, et al. IEEE Transactions on Geoscience and Remote Sensing(TGRS), 2019, 57(10): 8276-8289. 
+2. Improving Hyperspectral Image Classification with Unsupervised Knowledge Learning. $\textbf{Zhang Jinyang}$, Wei Wei, Zhang Lei, et al.  IEEE International Geoscience and Remote Sensing Symposium(IGARSS). IEEE, 2019: 2722-2725.
+3. Deep cube-pair network for hyperspectral imagery classification. Wei Wei, $\textbf{Zhang Jinyang}$, Zhang Lei, et al. Remote Sensing, 2018, 10(5): 783.
+4. Data-specific Activation Function Learning for Hyperspectral Image Classification. Yu Li, Wei Wei, $\textbf{Zhang Jinyang}$, Lei Zhang, et al. International Conference on Orange Technology (ICOT), 2019
+5. Fast-convergent fully connected deep learning model using constrained nodes input. Chen Ding,Ying Li,Lei Zhang,$\textbf{Jinyang Zhang}$,Lu Yang, et al. Neural Processing Letters, 2019, 49(3): 995-1005.
+6. Boosting Hyperspectral Image Classification With Unsupervised Feature Learning. Wei Wei, Songzheng Xu, Lei Zhang, $\textbf{Zhang Jinyang}$, Yanning Zhang. IEEE Transactions on Geoscience and Remote Sensing(TGRS), 2021, 0196-2892
 
 Honors and Awards
 ------
-The m
+- Outstanding Graduate Student of 2020, School of Computer Science, Northwestern Polytechnical University
+- ASUS National Excellent Volunteer for College Students
 
 For more info
 ------

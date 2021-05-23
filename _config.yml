@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-China"
+locale                   : "zh-US"
 title                    : "阳阳爱茜茜"
 title_separator          : "-"
 name                     : "JinYang Zhang"
 description              : "一只想遨游世界的羊"
-url                      : "https://zhangjinyangnwpu.github.io" # the base hostname  #& protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhangjinyangnwpu.github.io #http://localhost:4000 #
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

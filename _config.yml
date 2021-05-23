@@ -11,8 +11,8 @@ title                    : "阳阳爱茜茜"
 title_separator          : "-"
 name                     : "JinYang Zhang"
 description              : "一只想遨游世界的羊"
-url                      : https://zhangjinyangnwpu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :  # the subpath of your site, e.g. "/blog"
+url                      : http://localhost:4000 #https://zhangjinyangnwpu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -83,7 +83,7 @@ author:
   name             : "JinYang Zhang"
   avatar           : "profile.png"
   bio              : "Stay hungry, Stay foolish"
-  location         : "XiAn China"
+  location         : "Xi'An China"
   employer         : "orbbec3d"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -213,6 +216,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true

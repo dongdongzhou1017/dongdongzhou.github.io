@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "zhang-jin-yang-0"
+  zhihu            : #"zhang-jin-yang-0"
 
 # Reading Files
 include:

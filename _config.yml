@@ -10,7 +10,7 @@ locale                   : "zh-Chinese"
 title                    : "阳阳得意"
 title_separator          : "-"
 name                     : "JinYang Zhang"
-description              : "一只想遨游世界的羊"
+description              : "一只想遨游世界的阳"
 url                      : https://zhangjinyangnwpu.github.io #http://localhost:4000 
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -83,8 +83,8 @@ author:
   name             : "JinYang Zhang"
   avatar           : "img.png"
   bio              : "Stay hungry, Stay foolish"
-  location         : "Xi'An China"
-  employer         : "orbbec3d"
+  location         : "Beijing China"
+  employer         : "moqi"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            : "1239430577@qq.com"

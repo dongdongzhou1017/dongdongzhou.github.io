@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in the school of computer science, NorthWestern Polytechnical University(NWPU), Xi'an, China, 2013.09-2017.07
-* M.S. in the school of computer science, NorthWestern Polytechnical University(NWPU), Xi'an, China, 2017.09-2020.03
+* B.S. in the school of computer science, NorthWestern Polytechnical University(NWPU), Xi'an, China, 2013.09 ~ 2017.07
+* M.S. in the school of computer science, NorthWestern Polytechnical University(NWPU), Xi'an, China, 2017.09 ~ 2020.03
 
 Work experience
 ======
-* 2020.04-2022.03: Software Engineer
+* 2020.04 ~ 2022.03: Software Engineer
   * Orbbec, shangxi Xi'an
   * Duties included: Engineer
 
-* 2022.04-Now: Software Engineer
+* 2022.04 ~ Now: Software Engineer
   * Moqi, Beijing
   * Duties included: Engineer
 

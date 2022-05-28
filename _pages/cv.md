@@ -21,7 +21,7 @@ Work experience
   * Duties included: engineer
 
 * 2022.04-Now: Software Engineer
-  * Moqi, Beijing Xi'an
+  * Moqi, Beijing
   * Duties included: engineer
 
   

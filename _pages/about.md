@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a software enginee in Orbbec, which is a company researching in 3D sensing.
+I was employed by Orbbec as a software enginee, which is a company researching in 3D sensing.
+
+I am currently a software enginee in Moqi, which is a company researching in biometrics.
 
 I received my Master's degree in the school of computer science, NorthWestern Polytechnical University(NWPU), Xi'an, China , under the supervision of [Dr.WeiWei](https://www.researchgate.net/scientific-contributions/Wei-Wei-2148714604) and    [Prof.ZhangLei](https://sites.google.com/site/leizhanghyperspectral/home).
 

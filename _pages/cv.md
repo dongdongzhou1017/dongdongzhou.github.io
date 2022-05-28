@@ -16,17 +16,22 @@ Education
 
 Work experience
 ======
-* 2020.04-: Software Engineer
+* 2020.04-2022.03: Software Engineer
   * Orbbec, shangxi Xi'an
-  * Duties included: Programmer
+  * Duties included: engineer
+
+* 2022.04-Now: Software Engineer
+  * Moqi, Beijing Xi'an
+  * Duties included: engineer
 
   
 Skills
 ======
 * C++，Python
 * Machine learning
-  * Sklearn,Scipy
+  * Sklearn,Scipy,numpy, pandas
   * Tensorflow, Pytorch
+  * cuda
 * qt, git, shell
 
 <!-- Publications

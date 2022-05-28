@@ -18,11 +18,11 @@ Work experience
 ======
 * 2020.04-2022.03: Software Engineer
   * Orbbec, shangxi Xi'an
-  * Duties included: engineer
+  * Duties included: Engineer
 
 * 2022.04-Now: Software Engineer
   * Moqi, Beijing
-  * Duties included: engineer
+  * Duties included: Engineer
 
   
 Skills

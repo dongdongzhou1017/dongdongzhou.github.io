@@ -10,7 +10,7 @@ tags:
 
 #### 找出所有满足 $a^3+b^3=c^3+d^3$的小于1000的正整数组合
 
-```
+```python
 NUM_RANGE = 1000
 def find_num1():
     sum_v = {}

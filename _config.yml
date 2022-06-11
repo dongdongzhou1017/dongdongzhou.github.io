@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-Chinese"
-title                    : "阳阳得意"
+title                    : "张锦阳"
 title_separator          : "-"
 name                     : "JinYang Zhang"
-description              : "一只想遨游世界的阳"
+description              : "一只想遨游世界的羊"
 url                      : https://zhangjinyangnwpu.github.io #http://localhost:4000 
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : 

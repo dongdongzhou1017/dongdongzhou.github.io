@@ -22,7 +22,7 @@ My research intersets mainly lie in machine learning, especial in deep learning 
 
 Indeed, my works focus on hyperspectral image processing, the field of insufficient and missing labels, in semi-supervised learning and few-shot learning. 
 
-Right now, I'm working on hard problems in biometrics-related fields.
+Right now, I'm working on a biometric-related field.
 
 Publications
 ====== 

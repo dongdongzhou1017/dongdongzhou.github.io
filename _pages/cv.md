@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in the school of computer science, NorthWestern Polytechnical University(NWPU), Xi'an, China, 2013.09 ~ 2017.07
-* M.S. in the school of computer science, NorthWestern Polytechnical University(NWPU), Xi'an, China, 2017.09 ~ 2020.03
+* B.S. in the school of computer science, NorthWestern Polytechnical University (NWPU), Xi'an, China, 2013.09 ~ 2017.07
+* M.S. in the school of computer science, NorthWestern Polytechnical University (NWPU), Xi'an, China, 2017.09 ~ 2020.03
 
 Work experience
 ======
@@ -29,7 +29,7 @@ Skills
 ======
 * C++，Python
 * Machine learning
-  * Sklearn,Scipy,numpy, pandas
+  * Sklearn, Scipy, numpy, pandas
   * Tensorflow, Pytorch
   * cuda
 * qt, git, shell

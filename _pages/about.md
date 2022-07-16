@@ -16,7 +16,6 @@ I received my Master's degree in the school of computer science, NorthWestern Po
 I received my Bachelor’s degree in the school of computer science, NorthWestern Polytechnical University(NWPU), Xi'an, China.
 
 Research
-
 ======
 My research intersets mainly lie in machine learning, especial in deep learning and computer vision, but also in traditional methods.
 

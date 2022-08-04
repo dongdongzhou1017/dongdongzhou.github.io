@@ -10,9 +10,9 @@ location: "Beijing, China"
 
 # ransac implement with pure numba code on GPU
 
-https://github.com/zhangjinyangnwpu/ImageRegistration
+[地址链接](https://github.com/zhangjinyangnwpu/ImageRegistration)
 
-reference: https://github.com/ThomIves/LeastSquaresPurePy
+[reference](https://github.com/ThomIves/LeastSquaresPurePy)
 
 
 

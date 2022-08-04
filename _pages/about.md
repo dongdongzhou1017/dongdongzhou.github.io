@@ -21,12 +21,12 @@ My research intersets mainly lie in machine learning, especial in deep learning 
 
 Indeed, my works focus on hyperspectral image processing, the field of insufficient and missing labels, in semi-supervised learning and few-shot learning. 
 
-Right now, I'm working on a biometric-related field.
+Right now, I'm working on biometric-related field, solving large-scale matching tasks on gpu.
 
 Publications
 ====== 
-1. Learning Discriminative Compact Representation for Hyperspectral Imagery Classification. Zhang Lei, $\textbf{Zhang Jinyang}$, Wei Wei, et al. IEEE Transactions on Geoscience and Remote Sensing(TGRS), 2019, 57(10): 8276-8289. 
-2. Improving Hyperspectral Image Classification with Unsupervised Knowledge Learning. $\textbf{Zhang Jinyang}$, Wei Wei, Zhang Lei, et al.  IEEE International Geoscience and Remote Sensing Symposium(IGARSS). IEEE, 2019: 2722-2725.
+1. Improving Hyperspectral Image Classification with Unsupervised Knowledge Learning. $\textbf{Zhang Jinyang}$, Wei Wei, Zhang Lei, et al.  IEEE International Geoscience and Remote Sensing Symposium(IGARSS). IEEE, 2019: 2722-2725.
+2. Learning Discriminative Compact Representation for Hyperspectral Imagery Classification. Zhang Lei, $\textbf{Zhang Jinyang}$, Wei Wei, et al. IEEE Transactions on Geoscience and Remote Sensing(TGRS), 2019, 57(10): 8276-8289. 
 3. Deep cube-pair network for hyperspectral imagery classification. Wei Wei, $\textbf{Zhang Jinyang}$, Zhang Lei, et al. Remote Sensing, 2018, 10(5): 783.
 4. Data-specific Activation Function Learning for Hyperspectral Image Classification. Yu Li, Wei Wei, $\textbf{Zhang Jinyang}$, Lei Zhang, et al. International Conference on Orange Technology (ICOT), 2019
 5. Fast-convergent fully connected deep learning model using constrained nodes input. Chen Ding,Ying Li,Lei Zhang,$\textbf{Jinyang Zhang}$,Lu Yang, et al. Neural Processing Letters, 2019, 49(3): 995-1005.
@@ -39,4 +39,4 @@ Honors and Awards
 
 For more info
 ------
-More info about me can be found in [CV]().
+More info about me can be found in [CV](cv).

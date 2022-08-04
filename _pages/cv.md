@@ -27,7 +27,7 @@ Work experience
   
 Skills
 ======
-* C++，Python
+* c++，python
 * tools
   * sklearn, scipy, numpy, pandas
   * tensorflow, pytorch

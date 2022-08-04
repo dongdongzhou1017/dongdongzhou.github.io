@@ -17,22 +17,27 @@ Education
 Work experience
 ======
 * 2020.04 ~ 2022.03: Software Engineer
-  * Orbbec, shangxi Xi'an
-  * Duties included: Engineer
+  * Orbbec, Shaanxi Xi'an
+  * Duties included: industrial inspection and industrial software design
 
 * 2022.04 ~ Now: Software Engineer
   * Moqi, Beijing
-  * Duties included: Engineer
+  * Duties included: biometrics, especially palmprint matching
 
   
 Skills
 ======
 * C++，Python
-* Machine learning
-  * Sklearn, Scipy, numpy, pandas
-  * Tensorflow, Pytorch
-  * cuda
-* qt, git, shell
+* tools
+  * sklearn, scipy, numpy, pandas
+  * tensorflow, pytorch
+  * numba with cuda
+* deep learning
+  * semi-supervised learning
+  * image super resolution
+  * image segmentation
+  * metric learning and embdding representation
+  * deep graph matching
 
 <!-- Publications
 ======

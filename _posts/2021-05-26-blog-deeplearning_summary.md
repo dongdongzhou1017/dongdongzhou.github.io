@@ -1,10 +1,10 @@
 ---
 title: '什么是deep learning'
 date: 2021-05-26
-permalink: /posts/2021/05/2021-05-26-blog-deeplearning/
+permalink: /posts/2021/05/2021-05-26-blog-deeplearning_summary/
 tags:
   - deeplearning
-  - AI
+  - 随笔
 ---
 
 前言

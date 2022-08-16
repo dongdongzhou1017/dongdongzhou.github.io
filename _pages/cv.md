@@ -23,7 +23,7 @@ Education
   
   PhD candidate in Mathematical Information Technology (2019.03 ~ present)
   
-  Supervisors: Prof. [Lauri Kettunen](https://scholar.google.com/citations?user=5oo0DaAAAAAJ&hl=en), Prof. [Zheng Chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=en), and Prof.  [Fengyu Cong](https://scholar.google.com/citations?user=Jd0dQA8AAAAJ&hl=en). 
+  Supervisors: Prof. [Lauri Kettunen](https://scholar.google.com/citations?user=5oo0DaAAAAAJ&hl=en), Prof. [Zheng Chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=en), and Prof. [Fengyu Cong](https://scholar.google.com/citations?user=Jd0dQA8AAAAJ&hl=en). 
   
 * $\textbf{Dalian University of Technology, School of Biomedical Engineering}$
   

@@ -10,7 +10,7 @@ redirect_from:
 
 Personal Information
 ======
-* D512.2, Agora, Mattilanniemi 2, 40100 Jyväskylä, Finalnd. find me in [google](https://scholar.google.com/citations?user=Ytewu44AAAAJ&hl=en)
+* D512.2, Agora, Mattilanniemi 2, 40100 Jyväskylä, Finalnd. Find me in [google](https://scholar.google.com/citations?user=Ytewu44AAAAJ&hl=en)
 * Phone: +358 466207990
 * Email: dongdongzhou1017@foxmail.com or dongdong.w.zhou@student.jyu.fi
 * Homepage: [https://dongdongzhoujyu.github.io/](https://dongdongzhoujyu.github.io/)

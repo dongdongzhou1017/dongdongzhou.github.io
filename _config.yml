@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh-Chinese"
-title                    : "jinyangz"
+title                    : "DongdongZhou"
 title_separator          : "-"
 name                     : "Dongdong Zhou"
 description              : "Ph.D candidate of Univeristy of Jyvaskyla"
-url                      : https://dongdongzhou.github.io #http://localhost:4000 
+url                      : https://Dongdongzhoujyu.github.io #http://localhost:4000 
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

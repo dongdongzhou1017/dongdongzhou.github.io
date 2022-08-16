@@ -7,13 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a software enginee in Moqi, which is a company researching in biometrics.
+I am currently a Ph.D. candidate (2019.03-Present, software and communications engineering) at the Faculty of Information Technology, [University of Jyväskylä](https://www.jyu.fi/it/en), Finland,  supervised by Prof. [Lauri Kettunen](https://scholar.google.com/citations?user=5oo0DaAAAAAJ&hl=en), Prof. [Zheng Chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=en), and Prof.  [Fengyu Cong](https://scholar.google.com/citations?user=Jd0dQA8AAAAJ&hl=en). 
 
 I was employed by Orbbec as a software enginee, which is a company researching in 3D sensing.
 
 I received my Master's degree in the school of computer science, NorthWestern Polytechnical University(NWPU), Xi'an, China , under the supervision of [Prof. WeiWei](https://www.researchgate.net/scientific-contributions/Wei-Wei-2148714604) and    [Prof. ZhangLei](https://sites.google.com/site/leizhanghyperspectral/home).
 
 I received my Bachelor’s degree in the school of computer science, NorthWestern Polytechnical University(NWPU), Xi'an, China.
+
+I received the B.S. and M.S. degrees in biomedical engineering from Dalian University of Technology, Dalian, China, in 2015, and 2018, respectively. He is currently pursuing the Ph.D. degree in software and communications engineering with the University of Jyväskylä, Jyväskylä, Finland. 
+
+PostDoc Fellow (2021.9-Present) in Center for Mind and Brain, University of California Davis with Prof. Steven Luck.
+I got doctoral degree (2018.11-2021.8) in Faculty of Information Technology, University of Jyväskylä, worked with Prof. Timo Tiihonen and Prof. Fengyu Cong. I am a member of SPWC lab and ASAP lab.
+I received my master’s degree （2015.09-2018.06）from Dalian University of Technology with Prof. Fengyu Cong as my supervisor. I obtained my bachelor’s degree （2011.09-2015.06） from Dalian Polytechnic University.
+I am one of the founders of Brain domain.
+
+
 
 Research
 ======

@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Personal Information
+======
+* Mattilanniemi 2, 40100 Jyväskylä, Finalnd. find me in [google](https://scholar.google.com/citations?user=Ytewu44AAAAJ&hl=en)
+* Phone: +358 466207990
+* Email: dongdongzhou1017@foxmail.com or dongdong.w.zhou@student.jyu.fi
+* Homepage: https://dongdongzhoujyu.github.io/
+
+
 Education
 ======
 * B.S. in the School of Biomedical Engineering, Faculty of Electronic and Electrical Engineering, Dalian University of Technology, Dalian, China, 2011.09 ~ 2015.06

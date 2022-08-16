@@ -11,7 +11,7 @@ redirect_from:
 
 Personal Information
 ======
-* Mattilanniemi 2, 40100 Jyväskylä, Finalnd. find me in [google](https://scholar.google.com/citations?user=Ytewu44AAAAJ&hl=en)
+* D512.2, Agora, Mattilanniemi 2, 40100 Jyväskylä, Finalnd. find me in [google](https://scholar.google.com/citations?user=Ytewu44AAAAJ&hl=en)
 * Phone: +358 466207990
 * Email: dongdongzhou1017@foxmail.com or dongdong.w.zhou@student.jyu.fi
 * Homepage: https://dongdongzhoujyu.github.io/
@@ -19,7 +19,10 @@ Personal Information
 
 Education
 ======
-* B.S. in the School of Biomedical Engineering, Faculty of Electronic and Electrical Engineering, Dalian University of Technology, Dalian, China, 2011.09 ~ 2015.06
+* University of Jyväskylä, Jyväskylä, Faculty of Electronic and Electrical Engineering
+  PhD candidate in Mathematical Information Technology (2019.03 ~ present)
+  Supervisors: Tapani Ristaniemi and Fengyu Cong
+* B.S. in the School of Biomedical Engineering, , Dalian University of Technology, Dalian, China, 2011.09 ~ 2015.06
 * M.S. in the School of Biomedical Engineering, Faculty of Electronic and Electrical Engineering, Dalian University of Technology, Dalian, China, 2015.09 ~ 2018.06
 * Ph.D. in Faculty of Information Technology, University of Jyväskylä, Jyväskylä, Finland, 2019.03 ~ present
  

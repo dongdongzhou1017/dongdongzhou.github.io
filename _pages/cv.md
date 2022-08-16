@@ -23,11 +23,10 @@ Skills
   * tensorflow, pytorch
   * numba with cuda
 * deep learning
-  * semi-supervised learning
-  * image super resolution
-  * image segmentation
-  * metric learning and embdding representation
-  * deep graph matching
+  * Biomedical signal classification
+  * Sleep stage classification
+
+
 
 <!-- Publications
 ======

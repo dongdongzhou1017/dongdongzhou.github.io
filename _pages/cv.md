@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in the School of Biomedical Engineering, Faculty of Electronic and Electrical Engineering, Dalian University of Technology, Dalian, China, 2011.09 ~ 2015.06
-* M.S. in the School of Biomedical Engineering, Faculty of Electronic and Electrical Engineering, Dalian University of Technology, Dalian, China,, 2015.09 ~ 2018.06
+* M.S. in the School of Biomedical Engineering, Faculty of Electronic and Electrical Engineering, Dalian University of Technology, Dalian, China, 2015.09 ~ 2018.06
 * Ph.D. in Faculty of Information Technology, University of Jyväskylä, Jyväskylä, Finland, 2019.03 ~ present
  
 Skills

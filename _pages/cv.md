@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "[Curriculum Vitae]()"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -50,4 +50,4 @@ Skills
 
 For more info
 ====== 
-* you can find in the CV file.
+* you can find in the [CV]().

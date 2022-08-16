@@ -47,3 +47,7 @@ Skills
 * deep learning
   * Biomedical signal classification
   * Sleep stage classification
+
+For more info
+====== 
+* you can find in the CV file.

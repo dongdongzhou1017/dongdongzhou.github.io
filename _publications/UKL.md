@@ -1,16 +1,16 @@
 ---
-title: "Improving Hyperspectral Image Classification with Unsupervised Knowledge Learning"
+title: "LightSleepNet: A Lightweight Deep Model for Rapid Sleep Stage Classification with Spectrograms"
 collection: publications
-permalink: /publication/UKL
+permalink: /publication/LSNet
 excerpt: 
-date: 2019-07-28
-venue: '(IGARSS) IEEE International Geoscience and Remote Sensing Symposium'
-paperurl: 'https://ieeexplore.ieee.org/document/8898323'
+date: 2021-12-09
+venue: '43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9629878'
 citation: 
 ---
 
-[Paper](https://ieeexplore.ieee.org/document/8898323)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9629878)
 [Code](https://github.com/zhangjinyangnwpu/UKL)
 
 Abstract:
-Recently, deep convolutional neural networks(DCNNs) based methods have shown pleasing performance in hyperspectral image(HSI) classification. However, due to extensive coefficients resulted by the deep structure, these methods are prone to be overfitting during training, especially when the labeled samples are limited. To address this problem, we propose to learn the unsupervised knowledge from both unlabeled and labeled samples to regularize the conventional supervised learning. Following this idea, we present a two-branch network, in which two branches are separately utilized to perform the clustering and classification based on a shared feature extraction module. Thanks to the shared structure, the crucial unsupervised information (e.g., intra-cluster similarity & inter-cluster dissimilarity, etc.) can be injected into the supervised learning procedure, and thus leads to improved generalization capacity. Experiments on two widely used HSI datasets show the superior performance of the proposed method.
+Deep learning has achieved unprecedented success in sleep stage classification tasks, which starts to pave the way for potential real-world applications. However, due to its enormous size, deployment of deep neural networks is hindered by high cost at various aspects, such as computation power, storage, network bandwidth, power consumption, and hardware complexity. For further practical applications (e.g., wearable sleep monitoring devices), there is a need for simple and compact models. In this paper, we propose a lightweight model, namely LightSleepNet, for rapid sleep stage classification based on spectrograms. Our model is assembled by a much fewer number of model parameters compared to existing ones. Furthermore, we convert the raw EEG data into spectrograms to speed up the training process. We evaluate the model performance on several public sleep datasets with different characteristics. Experimental results show that our lightweight model using spectrogram as input can achieve comparable overall accuracy and Cohen’s kappa (SHHS100: 86.7%-81.3%, Sleep-EDF: 83.7%-77.5%, Sleep-EDF-v1: 88.3%-84.5%) compared to the state-of-the-art methods on experimental datasets.

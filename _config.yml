@@ -9,9 +9,9 @@
 locale                   : "zh-Chinese"
 title                    : "jinyangz"
 title_separator          : "-"
-name                     : "JinYang Zhang"
-description              : "一只想遨游世界的羊"
-url                      : https://zhangjinyangnwpu.github.io #http://localhost:4000 
+name                     : "Dongdong Zhou"
+description              : "Ph.D candidate of Univeristy of Jyvaskyla"
+url                      : https://dongdongzhou.github.io #http://localhost:4000 
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "JinYang Zhang"
+  name             : "Dongdong Zhou"
   avatar           : "star_sky.jpg"
   bio              : "Stay hungry, Stay foolish"
   location         : "Beijing China"

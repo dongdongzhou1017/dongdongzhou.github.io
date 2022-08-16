@@ -21,7 +21,6 @@ Skills
 * tools
   * sklearn, scipy, numpy, pandas
   * tensorflow, pytorch
-  * numba with cuda
 * deep learning
   * Biomedical signal classification
   * Sleep stage classification

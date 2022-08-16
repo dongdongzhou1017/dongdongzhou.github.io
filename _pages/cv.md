@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Curriculum Vitae](../_publications/CV_Dongdong Zhou_July_2022.pdf)"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:

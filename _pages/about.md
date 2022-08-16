@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-● I am currently a Ph.D. candidate (2019.03-Present, software and communications engineering) in the Faculty of Information Technology, [University of Jyväskylä](https://www.jyu.fi/en/), Finland,  supervised by Prof. [Lauri Kettunen](https://scholar.google.com/citations?user=5oo0DaAAAAAJ&hl=en), Prof. [Zheng Chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=en), and Prof.  [Fengyu Cong](https://scholar.google.com/citations?user=Jd0dQA8AAAAJ&hl=en). I am a member of [SPWC lab] (https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing) and [ASAP lab](http://www.escience.cn/people/cong/asap.html).
+● I am currently a Ph.D. candidate (2019.03-Present, software and communications engineering) in the Faculty of Information Technology, [University of Jyväskylä](https://www.jyu.fi/en/), Finland,  supervised by Prof. [Lauri Kettunen](https://scholar.google.com/citations?user=5oo0DaAAAAAJ&hl=en), Prof. [Zheng Chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=en), and Prof.  [Fengyu Cong](https://scholar.google.com/citations?user=Jd0dQA8AAAAJ&hl=en). I am a member of [SPWC lab](https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing) and [ASAP lab](http://www.escience.cn/people/cong/asap.html).
 
 ● I received my master’s degree in biomedical engineering from [Dalian University of Technology] (https://en.dlut.edu.cn/) in 2018, supervised by Assoc Prof. [Liping Qi](https://www.researchgate.net/profile/Liping-Qi). I obtained my bachelor’s degree in biomedical engineering from [Dalian University of Technology] (https://en.dlut.edu.cn/) in 2015.
 

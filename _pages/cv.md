@@ -19,23 +19,21 @@ Personal Information
 
 Education
 ======
-* ** University of Jyväskylä, Faculty of Information Technology**
+* **University of Jyväskylä, Faculty of Information Technology**
   
   PhD candidate in Mathematical Information Technology (2019.03 ~ present)
   
   Supervisors: Prof. [Lauri Kettunen](https://scholar.google.com/citations?user=5oo0DaAAAAAJ&hl=en), Prof. [Zheng Chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=en), and Prof. [Fengyu Cong](https://scholar.google.com/citations?user=Jd0dQA8AAAAJ&hl=en). 
   
-* $\textbf{Dalian University of Technology, School of Biomedical Engineering}$
+* **Dalian University of Technology, School of Biomedical Engineering**
   
   M.E. in Biomedical Engineering (2015.09~2018.06)
   
   Supervisors: Assoc Prof. [Liping Qi](https://www.researchgate.net/profile/Liping-Qi)
 
-* $\textbf{Dalian University of Technology, School of Biomedical Engineering}$
+* **Dalian University of Technology, School of Biomedical Engineering**
   
   B.E. in Biomedical Engineering (2011.09~2015.06)
-  
-
 
  
 Skills

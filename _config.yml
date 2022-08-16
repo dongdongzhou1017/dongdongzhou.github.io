@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dongdong Zhou"
+  name             : "Dongdong Zhou|周冬冬"
   avatar           : "star_sky.jpg"
-  bio              : "Stay hungry, Stay foolish"
-  location         : "Jyvaskyla Finland"
-  employer         : "University of Jyvaskyla"
+  bio              : "dongdongzhou1017@foxmail.com"
+  location         : "Jyväskylä Finland"
+  employer         : "University of  Jyväskylä"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ytewu44AAAAJ"
   email            : "dongdong.w.zhou@student.jyu.fi"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Dongdong-Zhou-6"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-8726-4855"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

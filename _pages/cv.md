@@ -11,23 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in the school of computer science, NorthWestern Polytechnical University (NWPU), Xi'an, China, 2013.09 ~ 2017.07
-* M.S. in the school of computer science, NorthWestern Polytechnical University (NWPU), Xi'an, China, 2017.09 ~ 2020.03
-
-Work experience
-======
-* 2020.04 ~ 2022.03: Software Engineer
-  * Orbbec, Shaanxi Xi'an
-  * Duties included: industrial inspection and industrial software design
-
-* 2022.04 ~ Now: Software Engineer
-  * Moqi, Beijing
-  * Duties included: biometrics, especially palmprint matching
-
-  
+* B.S. in the School of Biomedical Engineering, Faculty of Electronic and Electrical Engineering, Dalian University of Technology, Dalian, China, 2011.09 ~ 2015.06
+* M.S. in the School of Biomedical Engineering, Faculty of Electronic and Electrical Engineering, Dalian University of Technology, Dalian, China,, 2015.09 ~ 2018.06
+* Ph.D. in Faculty of Information Technology, University of Jyväskylä, Jyväskylä, Finland, 2019.03 ~ present
+ 
 Skills
 ======
-* c++，python
+* matlab，python
 * tools
   * sklearn, scipy, numpy, pandas
   * tensorflow, pytorch

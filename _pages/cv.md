@@ -19,7 +19,7 @@ Personal Information
 
 Education
 ======
-* $\textbf{University of Jyväskylä, Faculty of Electronic and Electrical Engineering}$
+* $\textbf{University of Jyväskylä, Faculty of Information Technology}$
   
   PhD candidate in Mathematical Information Technology (2019.03 ~ present)
   

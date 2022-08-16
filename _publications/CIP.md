@@ -1,16 +1,16 @@
 ---
-title: "SingleChannelNet: A model for automatic sleep stage classification with raw single-channel EEG"
+title: "Alleviating Class Imbalance Problem in Automatic Sleep Stage Classification"
 collection: publications
-permalink: /publication/SCNet
+permalink: /publication/CIP
 excerpt: 
-date: 2022-05-01
-venue: 'Biomedical Signal Processing and Control (BSPC) '
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S1746809422001148'
+date: 2022-07-18
+venue: 'IEEE Transactions on Instrumentation and Measurement (TIM) '
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9832012'
 citation: 
 ---
 
-[Paper](https://www.sciencedirect.com/science/article/pii/S1746809422001148)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9832012)
 [Code](https://github.com/zhangjinyangnwpu/LDCR)
 
 Abstract:
-In diagnosing sleep disorders, sleep stage classification is a very essential yet time-consuming process. Various existing state-of-the-art approaches rely on hand-crafted features and multi-modality polysomnography (PSG) data, where prior knowledge is compulsory and high computation cost can be expected. Besides, it is a big challenge to handle the task with raw single-channel electroencephalogram (EEG). To overcome these shortcomings, this paper proposes an end-to-end framework with a deep neural network, namely SingleChannelNet, for automatic sleep stage classification based on raw single-channel EEG. The proposed model utilizes a 90s epoch as the textual input and employs two multi-convolution (MC) blocks and several max-average pooling (M-Apooling) layers to learn different scales of feature representations. To demonstrate the efficiency of the proposed model, we evaluate our model using different raw single-channel EEGs (C4/A1 and Fpz-Cz) on two public PSG datasets (Cleveland children’s sleep and health study: CCSHS and Sleep-EDF database expanded: Sleep-EDF). Experimental results show that the proposed architecture can achieve better overall accuracy and Cohen’s kappa (CCSHS: 90.2%–86.5%, Sleep-EDF: 86.1%–80.5%) compared with state-of-the-art approaches. Additionally, the proposed model can learn features automatically for sleep stage classification using different single-channel EEGs with distinct sampling rates and without using any hand-engineered features.
+For real-world automatic sleep-stage classification tasks, various existing deep learning-based models are biased toward the majority with a high proportion. Because of the unique sleep structure, most of the current polysomnography (PSG) datasets suffer an inherent class imbalance problem (CIP), in which the number of each sleep stage is severely unequal. In this study, we first define the class imbalance factor (CIF) to describe the level of CIP quantitatively. Afterward, we propose two balancing methods to alleviate this problem from the dataset quantity and the relationship between the class distribution and the applied model, respectively. The first one is to employ the data augmentation (DA) with the generative adversarial network (GAN) model and different intensities of Gaussian white noise (GWN) to balance samples, thereinto, GWN addition is specifically tailored to deep learning-based models, which can work on raw electroencephalogram (EEG) data while preserving their properties. In addition, we try to balance the relationship between the imbalanced class and biased network model to achieve a balanced state with the help of class distribution and neuroscience principles. We further propose an effective deep convolutional neural network (CNN) model utilizing bidirectional long short-term memory (Bi-LSTM) with single-channel EEG as the baseline. It is used for evaluating the efficiency of two balancing approaches on three imbalanced PSG datasets (CCSHS, Sleep-EDF, and Sleep-EDF-V1). The qualitative and quantitative evaluation of experimental results demonstrates that the proposed methods could not only show the superiority of class balancing through the confusion matrix and classwise metrics, but also get better N1 stage and whole stages classification accuracies compared to other state-of-the-art approaches.

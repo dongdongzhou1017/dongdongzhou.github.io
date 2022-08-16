@@ -22,17 +22,25 @@ My research intersets mainly include developing deep learning-based approaches i
 
 Publications
 ====== 
-1. Improving Hyperspectral Image Classification with Unsupervised Knowledge Learning. $\textbf{Zhang Jinyang}$, Wei Wei, Zhang Lei, et al.  IEEE International Geoscience and Remote Sensing Symposium(IGARSS). IEEE, 2019: 2722-2725.
-2. Learning Discriminative Compact Representation for Hyperspectral Imagery Classification. Zhang Lei, $\textbf{Zhang Jinyang}$, Wei Wei, et al. IEEE Transactions on Geoscience and Remote Sensing(TGRS), 2019, 57(10): 8276-8289. 
-3. Deep cube-pair network for hyperspectral imagery classification. Wei Wei, $\textbf{Zhang Jinyang}$, Zhang Lei, et al. Remote Sensing, 2018, 10(5): 783.
-4. Data-specific Activation Function Learning for Hyperspectral Image Classification. Yu Li, Wei Wei, $\textbf{Zhang Jinyang}$, Lei Zhang, et al. International Conference on Orange Technology (ICOT), 2019
-5. Fast-convergent fully connected deep learning model using constrained nodes input. Chen Ding,Ying Li,Lei Zhang,$\textbf{Jinyang Zhang}$,Lu Yang, et al. Neural Processing Letters, 2019, 49(3): 995-1005.
-6. Boosting Hyperspectral Image Classification With Unsupervised Feature Learning. Wei Wei, Songzheng Xu, Lei Zhang, $\textbf{Zhang Jinyang}$, Yanning Zhang. IEEE Transactions on Geoscience and Remote Sensing(TGRS), 2021, 0196-2892
+1. $\textbf{Dongdong Zhou}$, Jian Wang, Guoqiang Hu, Jiacheng Zhang, Fan Li, Rui Yan, Lauri Kettunen, Zheng Chang, Qi Xu, and Fengyu Cong (2022). SingleChannelNet: A model for automatic sleep stage classification with raw single-channel EEG. Biomedical Signal Processing and Control, 75, 103592. [link](https://www.sciencedirect.com/science/article/pii/S1746809422001148)
+2. $\textbf{Dongdong Zhou}$, Qi Xu, Jian Wang, Jiacheng Zhang, Guoqiang Hu, Lauri Kettunen, Zheng Chang, and Fengyu Cong (2021). LightSleepNet: A Lightweight Deep Model for Rapid Sleep Stage Classification with Spectrograms, In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 43-46. [link] (https://ieeexplore.ieee.org/abstract/document/9629878)
+3. Qi Xu*, $\textbf{Dongdong Zhou*}$, Jian Wang, Jiangrong Shen, Lauri Kettunen, and Fengyu Cong (2022). Convolutional Neural Network Based Sleep Stage Classification with Class Imbalance, In 2022 International Joint Conference on Neural Networks (IJCNN 2022). Oral accept. Co first author.
+4. $\textbf{Dongdong Zhou*}$, Qi Xu, Jian Wang, Hongming Xu, Lauri Kettunen, Zheng Chang, and Fengyu Cong (2022). Alleviating Class Imbalance Problem in Automatic Sleep Stage Classification. IEEE Transactions on Instrumentation and Measurement, 71, 1-12. [link](https://ieeexplore.ieee.org/abstract/document/9832012)
+5. Rui Yan, Fan Li, $\textbf{Dongdong Zhou*}$, Tapani Ristaniemi and Fengyu Cong (2021). Automatic sleep scoring: A deep learning architecture for multi-modality time series, Journal of Neuroscience Methods, 348, 108971. [link](https://www.sciencedirect.com/science/article/pii/S0165027020303940)
+6. Rui Yan, Fan Li, Dongdong Zhou, Tapani Ristaniemi and Fengyu Cong (2020). A Deep Learning Model for Automatic Sleep Scoring using Multimodality Time Series, In 28th European Signal Processing Conference (EUSIPCO), 1090-1094. [link](https://ieeexplore.ieee.org/abstract/document/9287518)
+7. Liping Qi, Shuo Guan, Dongdong Zhou, Fengshan Gao and Liqing Liu (2021). The influence of muscle fiber type on slow component of oxygen uptake kinetics, Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, 235(2), 471-478. [link] (https://journals.sagepub.com/doi/abs/10.1177/0954406220940335)
+8. Liping Qi, Xiaochi Ma, Dongdong Zhou, Shuo Guan, Fengshan Gao and Peixin Cong (2019). Wavelet and principal component analysis of electromyographic activity and slow component of oxygen uptake during heavy and severe cycling exercise, Applied Physiology, Nutrition, and Metabolism. 45(2): 187-192. [link](https://cdnsciencepub.com/doi/full/10.1139/apnm-2019-0037)
+
+Manuscripts in Progress
+------
+1. Dongdong Zhou, Qi Xu, Jiacheng Zhang, Lauri Kettunen, Zheng Chang and Fengyu Cong. Interpretable Sleep Stage Classification Based on Layer-wise Relevance Propagation. Submitted to Future Generation Computer Systems.
+2. Qi Xu, Yaxin Li, Jiangrong Shen, Dongdong Zhou, Pingping Zhang, Jian K. Liu, Huajin Tang, and Gang Pan. Hierarchical Spiking Based Model for Efficient Image Classification with Enhanced Feature Extraction and Encoding. Submitted to IEEE Transactions on Neural Networks and Learning Systems.
+
 
 Honors and Awards
 ------
-- Outstanding Graduate Student of 2020, School of Computer Science, Northwestern Polytechnical University
-- ASUS National Excellent Volunteer for College Students
+- Chinese Government Scholarship, from China Scholarship Council, 2019.03 ∼2022.03 (1350Euros/month).
+
 
 For more info
 ------

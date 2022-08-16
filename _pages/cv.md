@@ -48,8 +48,9 @@ Skills
   * Biomedical signal classification
   * Sleep stage classification
 
-
-
+For more information
+======
+* You can find in the CV file.
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}

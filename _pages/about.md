@@ -7,17 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. candidate (2019.03-Present, software and communications engineering) in the Faculty of Information Technology, [University of Jyväskylä](https://www.jyu.fi/it/en), Finland,  supervised by Prof. [Lauri Kettunen](https://scholar.google.com/citations?user=5oo0DaAAAAAJ&hl=en), Prof. [Zheng Chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=en), and Prof.  [Fengyu Cong](https://scholar.google.com/citations?user=Jd0dQA8AAAAJ&hl=en). I am a member of [SPWC lab] (https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing) and [ASAP lab](http://www.escience.cn/people/cong/asap.html).
+●I am currently a Ph.D. candidate (2019.03-Present, software and communications engineering) in the Faculty of Information Technology, [University of Jyväskylä](https://www.jyu.fi/en/), Finland,  supervised by Prof. [Lauri Kettunen](https://scholar.google.com/citations?user=5oo0DaAAAAAJ&hl=en), Prof. [Zheng Chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=en), and Prof.  [Fengyu Cong](https://scholar.google.com/citations?user=Jd0dQA8AAAAJ&hl=en). I am a member of [SPWC lab] (https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing) and [ASAP lab](http://www.escience.cn/people/cong/asap.html).
 
-I received my master’s degree in biomedical engineering from [Dalian University of Technology] (https://en.dlut.edu.cn/) in 2018, supervised by Assoc Prof. [Liping Qi](https://www.researchgate.net/profile/Liping-Qi). I obtained my bachelor’s degree in biomedical engineering from [Dalian University of Technology] (https://en.dlut.edu.cn/) in 2015.
+●I received my master’s degree in biomedical engineering from [Dalian University of Technology] (https://en.dlut.edu.cn/) in 2018, supervised by Assoc Prof. [Liping Qi](https://www.researchgate.net/profile/Liping-Qi). I obtained my bachelor’s degree in biomedical engineering from [Dalian University of Technology] (https://en.dlut.edu.cn/) in 2015.
 
 Research
 ======
-My research intersets mainly lie in machine learning, especial in deep learning and computer vision, but also in traditional methods.
-
-Indeed, my works focus on hyperspectral image processing, the field of insufficient and missing labels, in semi-supervised learning and few-shot learning. 
-
-Right now, I'm working on biometric-related field, solving large-scale matching tasks on gpu.
+My research intersets mainly include developing deep learning-based approaches in automatic sleep stage classification tasks (e.g., class imbalance problem, model interpretability, rapid sleep stage classification, etc) from single-channel electroencephalogram (EEG) data, which mainly concerned on:
+1. EEG/EMG, etc.
+2. Time-frequency analysis: Wavelet transform, short-time Fourier transform (STFT), etc.
+3. Deep learning methods: Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), Transformer, etc.
+4. Model interpretability: Layer-wise Relevance Propagation,etc.
+5. Class imbalance problem: Data augmentation, etc
 
 Publications
 ====== 

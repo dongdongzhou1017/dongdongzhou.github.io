@@ -41,7 +41,7 @@ Manuscripts in Progress
 
 Honors and Awards
 ------
-- Chinese Government Scholarship, from China Scholarship Council, 2019.03 ∼2022.03 (1350Euros/month).
+- Chinese Government Scholarship, from China Scholarship Council, 2019.02 ∼2022.01 (1350Euros/month).
 
 
 For more info

@@ -47,4 +47,4 @@ Skills
 
 For more info
 ====== 
-* you can find in the [CV](../_publications/CV_Dongdong Zhou_July_2022.pdf).
+* you can find in the [CV](../_publications/CV_Dongdong Zhou_September_2022.pdf).

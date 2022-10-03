@@ -28,7 +28,7 @@ Education
   
   M.E. in Biomedical Engineering (2015.09~2018.06)
   
-  Supervisor: Assoc Prof. [Liping Qi](https://www.researchgate.net/profile/Liping-Qi)
+  Supervisor: Associate Prof. [Liping Qi](https://www.researchgate.net/profile/Liping-Qi)
 
 * **Dalian University of Technology, School of Biomedical Engineering**
   

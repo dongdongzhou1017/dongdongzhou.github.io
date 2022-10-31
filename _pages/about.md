@@ -35,9 +35,7 @@ Publications
 
 Manuscripts in Progress
 ------
-1. **Dongdong Zhou**, Qi Xu, Jiacheng Zhang, Lauri Kettunen, Zheng Chang and Fengyu Cong. Interpretable Sleep Stage Classification Based on Layer-wise Relevance Propagation. Submitted to Future Generation Computer Systems.
-2. Qi Xu, Yaxin Li, Jiangrong Shen, **Dongdong Zhou**, Pingping Zhang, Jian K. Liu, Huajin Tang, and Gang Pan. Hierarchical Spiking Based Model for Efficient Image Classification with Enhanced Feature Extraction and Encoding. Submitted to IEEE Transactions on Neural Networks and Learning Systems.
-
+1. **Dongdong Zhou**, Qi Xu, Jiacheng Zhang, Lei Wu, Lauri Kettunen, Zheng Chang and Fengyu Cong. Interpretable Sleep Stage Classification Based on Layer-wise Relevance Propagation. Submitted to IEEE Transactions on Cognitive and Developmental Systems.
 
 Honors and Awards
 ------

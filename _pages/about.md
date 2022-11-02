@@ -24,6 +24,7 @@ My research intersets mainly include developing deep learning-based approaches i
 
 Publications
 ====== 
+<h2>Academic activities</h2>
 
 1. **Dongdong Zhou**, Jian Wang, Guoqiang Hu, Jiacheng Zhang, Fan Li, Rui Yan, Lauri Kettunen, Zheng Chang, Qi Xu, and Fengyu Cong (2022). SingleChannelNet: A model for automatic sleep stage classification with raw single-channel EEG. Biomedical Signal Processing and Control, 75, 103592. [link](https://www.sciencedirect.com/science/article/pii/S1746809422001148)
 2. **Dongdong Zhou**, Qi Xu, Jian Wang, Jiacheng Zhang, Guoqiang Hu, Lauri Kettunen, Zheng Chang, and Fengyu Cong (2021). LightSleepNet: A Lightweight Deep Model for Rapid Sleep Stage Classification with Spectrograms, In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 43-46. [link](https://ieeexplore.ieee.org/abstract/document/9629878)
